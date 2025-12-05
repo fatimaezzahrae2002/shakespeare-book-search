@@ -1,0 +1,37 @@
+{
+    "title": "The Comedy of Errors by William Shakespeare",
+    "subtitle": "Illustrated Edition",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publisher": "Independently Published",
+    "publishedDate": "2021-08-24",
+    "description": "Shakespeare's The Comedy of Errors is the slapstick farce of his youth. In it, the lost twin sons of the old merchant Egeon--both named Antipholus--find themselves in Ephesus, without either one even knowing of the other's existence. Meanwhile, Egeon has arrived in search of the son he thinks is still alive--and has been sentenced to death for the \"crime\" of being from Syracuse. To add to the confusion, the two Antipholuses have twin servants, both named Dromio. As the four men unwittingly encounter each other, the play is crammed with wildly escalating misunderstandings before the truth emerges and Egeon is pardoned. Shakespeare bases his story on Plautus's Menaechmi, a play about identical twins who accidentally meet after a lifetime apart. He borrows from another Plautus play by having Adriana, the wife of one Antipholus, entertain the other. The spirited Adriana often gives speeches evoking strong emotions--as do other characters at times. Even here, Shakespeare suggests complexities beyond the farce.",
+    "industryIdentifiers": [
+        {
+            "type": "ISBN_13",
+            "identifier": "9798463353436"
+        }
+    ],
+    "readingModes": {
+        "text": false,
+        "image": false
+    },
+    "pageCount": 102,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=XVebzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=XVebzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XVebzgEACAAJ&dq=The+Comedy+of+Errors&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XVebzgEACAAJ&dq=The+Comedy+of+Errors&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Comedy_of_Errors_by_William_Shakespe.html?hl=&id=XVebzgEACAAJ"
+}

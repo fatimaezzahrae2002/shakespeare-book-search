@@ -1,0 +1,34 @@
+{
+    "title": "The Tragedy of Julius Caesar ...",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publishedDate": "1914",
+    "industryIdentifiers": [
+        {
+            "type": "OTHER",
+            "identifier": "UOM:39015082531032"
+        }
+    ],
+    "readingModes": {
+        "text": false,
+        "image": true
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.7.6.0.full.1",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=gQE5AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=gQE5AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gQE5AQAAMAAJ&printsec=frontcover&dq=The+Tragedy+of+Julius+Caesar&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gQE5AQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gQE5AQAAMAAJ"
+}

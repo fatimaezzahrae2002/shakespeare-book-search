@@ -1,0 +1,37 @@
+{
+    "title": "Shakespeare's History of Pericles, Prince of Tyre",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publishedDate": "1905",
+    "industryIdentifiers": [
+        {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044086739190"
+        }
+    ],
+    "readingModes": {
+        "text": false,
+        "image": true
+    },
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+        "Tyre (Lebanon)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.9.0.full.1",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=OdSrpt_oaSoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=OdSrpt_oaSoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OdSrpt_oaSoC&printsec=frontcover&dq=Pericles,+Prince+of+Tyre&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OdSrpt_oaSoC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OdSrpt_oaSoC"
+}

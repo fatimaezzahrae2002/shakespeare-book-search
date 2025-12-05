@@ -1,0 +1,43 @@
+{
+    "title": "A Midsummer Night's Dream",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2003-04-28",
+    "description": "The New Cambridge Shakespeare appeals to students worldwide for its up-to-date scholarship and emphasis on performance. The series features line-by-line commentaries and textual notes on the plays and poems. Introductions are regularly refreshed with accounts of new critical, stage and screen interpretations. This second edition of A Midsummer Night's Dream retains R. A. Foakes' text and has been extensively updated by him. In the Introduction to what is widely acknowledged as Shakespeare's most popular comedy, Foakes describes the two main traditions in the play's stage history, one emphasising charm and innocence, the other stressing darker suggestions of violence and sexuality. He shows that both are necessary to a full understanding of the play. For this edition the editor has added a new account of important theatrical productions and scholarly criticism on the play that have appeared in recent years. The reading list has also been revised and updated.",
+    "industryIdentifiers": [
+        {
+            "type": "ISBN_13",
+            "identifier": "9780521532471"
+        },
+        {
+            "type": "ISBN_10",
+            "identifier": "0521532477"
+        }
+    ],
+    "readingModes": {
+        "text": false,
+        "image": true
+    },
+    "pageCount": 169,
+    "printType": "BOOK",
+    "categories": [
+        "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=A2eMEGrq5msC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=A2eMEGrq5msC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=A2eMEGrq5msC&printsec=frontcover&dq=A+Midsummer+Night%27s+Dream&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=A2eMEGrq5msC&dq=A+Midsummer+Night%27s+Dream&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Midsummer_Night_s_Dream.html?hl=&id=A2eMEGrq5msC"
+}

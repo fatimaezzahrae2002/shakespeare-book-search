@@ -1,0 +1,36 @@
+{
+    "title": "Titus Andronicus",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publishedDate": "1887",
+    "industryIdentifiers": [
+        {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044086742905"
+        }
+    ],
+    "readingModes": {
+        "text": false,
+        "image": true
+    },
+    "pageCount": 92,
+    "printType": "BOOK",
+    "averageRating": 3,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.5.0.full.1",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=YXEWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YXEWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YXEWAAAAYAAJ&printsec=frontcover&dq=Titus+Andronicus&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YXEWAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YXEWAAAAYAAJ"
+}

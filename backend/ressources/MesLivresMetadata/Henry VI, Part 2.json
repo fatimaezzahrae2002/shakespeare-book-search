@@ -1,0 +1,39 @@
+{
+    "title": "Henry VI, Part I",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publisher": "Standard Ebooks",
+    "publishedDate": "2021-01-06T18:25:01Z",
+    "description": "King Henry V has suddenly died, and the kingdom is in chaos. In England, noblemen are fighting amongst themselves. Loyalties are divided into two factions: the White Roses (York) and the Red Roses (Lancaster). The Duke of Gloucester, Henry VI’s Protector, is accused by Cardinal Beaufort of seizing the throne for himself. Meanwhile in France, the Dauphin Charles has been crowned the new king. English-held land once conquered by Henry V is quickly being recaptured by French forces. In one of these battles, the English hero Talbot is imprisoned. A French woman named Joan la Pucelle—also known as Joan of Arc—has been having visions that reveal to her how to defeat the English Army. The only thing that unifies the two countries is their pessimism towards the new English monarch. It is now Henry VI’s turn to rule over England, or die trying. This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition. This book is part of the Standard Ebooks project, which produces free public domain ebooks.",
+    "industryIdentifiers": [
+        {
+            "type": "OTHER",
+            "identifier": "PKEY:E64F34E0D805CF5A"
+        }
+    ],
+    "readingModes": {
+        "text": true,
+        "image": true
+    },
+    "pageCount": 92,
+    "printType": "BOOK",
+    "categories": [
+        "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.50.44.0.preview.3",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Sx0ZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Sx0ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Sx0ZEAAAQBAJ&printsec=frontcover&dq=Henry+VI,+Part+2&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Sx0ZEAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Sx0ZEAAAQBAJ"
+}

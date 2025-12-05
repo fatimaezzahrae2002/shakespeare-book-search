@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 35 20% 97%;
+    --foreground: 30 15% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 30 15% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 30 15% 15%;
+
+    --primary: 38 92% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 35 30% 92%;
+    --secondary-foreground: 30 15% 15%;
+
+    --muted: 35 20% 90%;
+    --muted-foreground: 30 10% 45%;
+
+    --accent: 38 92% 50%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 35 15% 85%;
+    --input: 35 15% 85%;
+    --ring: 38 92% 50%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 35 20% 97%;
+    --sidebar-foreground: 30 15% 15%;
+    --sidebar-primary: 38 92% 50%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 35 30% 92%;
+    --sidebar-accent-foreground: 30 15% 15%;
+    --sidebar-border: 35 15% 85%;
+    --sidebar-ring: 38 92% 50%;
+
+    /* Custom tokens */
+    --gradient-hero: linear-gradient(135deg, hsl(38 92% 50%), hsl(45 93% 47%));
+    --gradient-subtle: linear-gradient(180deg, hsl(35 20% 97%), hsl(35 30% 95%));
+    --shadow-elegant: 0 10px 30px -10px hsl(38 92% 50% / 0.2);
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .dark {
+    --background: 30 20% 8%;
+    --foreground: 35 15% 95%;
+
+    --card: 30 15% 12%;
+    --card-foreground: 35 15% 95%;
+
+    --popover: 30 15% 12%;
+    --popover-foreground: 35 15% 95%;
+
+    --primary: 38 92% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 30 15% 18%;
+    --secondary-foreground: 35 15% 95%;
+
+    --muted: 30 15% 18%;
+    --muted-foreground: 35 10% 65%;
+
+    --accent: 38 92% 50%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 35 15% 95%;
+
+    --border: 30 15% 18%;
+    --input: 30 15% 18%;
+    --ring: 38 92% 50%;
+
+    --sidebar-background: 30 20% 8%;
+    --sidebar-foreground: 35 15% 95%;
+    --sidebar-primary: 38 92% 50%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 30 15% 18%;
+    --sidebar-accent-foreground: 35 15% 95%;
+    --sidebar-border: 30 15% 18%;
+    --sidebar-ring: 38 92% 50%;
+
+    /* Custom tokens dark */
+    --gradient-hero: linear-gradient(135deg, hsl(38 92% 40%), hsl(45 93% 37%));
+    --gradient-subtle: linear-gradient(180deg, hsl(30 20% 8%), hsl(30 15% 12%));
+    --shadow-elegant: 0 10px 30px -10px hsl(38 92% 50% / 0.3);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 700;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;500;600&display=swap');

@@ -1,0 +1,43 @@
+{
+    "title": "Antony and Cleopatra",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publisher": "Hal Leonard Corporation",
+    "publishedDate": "2001-01-01",
+    "description": "(Applause Books). These popular editions allow the reader and student to look beyond the scholarly reading text to the more sensuous, more collaborative, more malleable performance text which emerges in conjunction with the commentary and notes. Each note, each gloss, each commentary reflects the stage life of the play with constant reference to the challenge of the text in performance. Readers will not only discover an enlivened Shakespeare, they will be empowered to rehearse and direct their own productions of the imagination in the process.",
+    "industryIdentifiers": [
+        {
+            "type": "ISBN_10",
+            "identifier": "1557833842"
+        },
+        {
+            "type": "ISBN_13",
+            "identifier": "9781557833846"
+        }
+    ],
+    "readingModes": {
+        "text": false,
+        "image": true
+    },
+    "pageCount": 284,
+    "printType": "BOOK",
+    "categories": [
+        "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.5.0.preview.1",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=aBpfHgHCBuUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=aBpfHgHCBuUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=aBpfHgHCBuUC&printsec=frontcover&dq=Antony+and+Cleopatra&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=aBpfHgHCBuUC&dq=Antony+and+Cleopatra&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Antony_and_Cleopatra.html?hl=&id=aBpfHgHCBuUC"
+}

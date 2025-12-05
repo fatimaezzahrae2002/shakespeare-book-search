@@ -1,0 +1,43 @@
+{
+    "title": "Henry VI Part 1",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2014-10-15",
+    "description": "The authoritative edition Henry VI, Part 1 from The Folger Shakespeare Library, the trusted and widely used Shakespeare series for students and general readers. Henry VI, Part 1 is an uncompromising celebration of early English nationalism that contrasts the English with the French, portrayed here as effeminate and scheming. A boy king, Henry VI, is on the English throne, and the indomitable Talbot leads the English cause in France. Joan La Pucelle (Joan of Arc), who becomes captain of the French, claims to be chosen by the Virgin Mary to liberate France. The English, however, consider her a sensual witch. Many of the English nobility remain, quarreling, at home. Once in France, some seek permission to fight each other there. Talbot and his son cannot prevail; the English defeat themselves by preying on each other. This edition includes: -Freshly edited text based on the best early printed version of the play -Full explanatory notes conveniently placed on pages facing the text of the play -Scene-by-scene plot summaries -A key to the play’s famous lines and phrases -An introduction to reading Shakespeare’s language -An essay by a leading Shakespeare scholar providing a modern perspective on the play -Fresh images from the Folger Shakespeare Library’s vast holdings of rare books -An annotated guide to further reading Essay by Phyllis Rackin The Folger Shakespeare Library in Washington, DC, is home to the world’s largest collection of Shakespeare’s printed works, and a magnet for Shakespeare scholars from around the globe. In addition to exhibitions open to the public throughout the year, the Folger offers a full calendar of performances and programs. For more information, visit Folger.edu.",
+    "industryIdentifiers": [
+        {
+            "type": "ISBN_13",
+            "identifier": "9781476788630"
+        },
+        {
+            "type": "ISBN_10",
+            "identifier": "1476788634"
+        }
+    ],
+    "readingModes": {
+        "text": true,
+        "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+        "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.24.21.0.preview.2",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=EfAFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=EfAFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EfAFAwAAQBAJ&printsec=frontcover&dq=Henry+VI,+Part+1&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EfAFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EfAFAwAAQBAJ"
+}

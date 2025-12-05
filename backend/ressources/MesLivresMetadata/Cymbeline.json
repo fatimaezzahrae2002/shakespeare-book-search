@@ -1,0 +1,32 @@
+{
+    "title": "The Oxford Shakespeare",
+    "subtitle": "The Complete Works of William Shakespeare",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publishedDate": "1919",
+    "description": "Bartleby.com, Inc. presents the full text of the play \"Cymbeline,\" as part of the full text of the 1914 Oxford edition of the \"Complete Works of William Shakespeare.\" \"Cymbeline\" was written in 1609-1610 by English dramatist and poet William Shakespeare (1564-1616).",
+    "industryIdentifiers": [
+        {
+            "type": "OTHER",
+            "identifier": "OCLC:47161994"
+        }
+    ],
+    "readingModes": {
+        "text": false,
+        "image": false
+    },
+    "pageCount": 0,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OI-zzwEACAAJ&dq=Cymbeline&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OI-zzwEACAAJ&dq=Cymbeline&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Oxford_Shakespeare.html?hl=&id=OI-zzwEACAAJ"
+}

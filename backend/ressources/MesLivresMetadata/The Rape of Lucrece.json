@@ -1,0 +1,34 @@
+{
+    "title": "Rape of Lucrece",
+    "authors": [
+        "William Shakespeare"
+    ],
+    "publishedDate": "1900",
+    "industryIdentifiers": [
+        {
+            "type": "OTHER",
+            "identifier": "HARVARD:HWNRTW"
+        }
+    ],
+    "readingModes": {
+        "text": false,
+        "image": true
+    },
+    "pageCount": 150,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.6.0.full.1",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=mCQ-AAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=mCQ-AAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mCQ-AAAAYAAJ&printsec=frontcover&dq=The+Rape+of+Lucrece&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mCQ-AAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mCQ-AAAAYAAJ"
+}
