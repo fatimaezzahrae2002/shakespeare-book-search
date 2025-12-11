@@ -14,7 +14,7 @@ recherche_book = Blueprint('recherche_book',__name__ )
 # Charger le modèle
 model = SentenceTransformer("sentence-transformers/bert-base-nli-mean-tokens")
 current_dir = os.path.dirname(os.path.abspath(__file__))
-json_path = os.path.join(current_dir, "index_bert_books.json")
+json_path = os.path.join(current_dir, "index_bert_pages.json")
 # Charger l'index JSON
 with open(json_path, "r", encoding="utf-8") as f:
     index_vecteurs_raw = json.load(f)
@@ -105,9 +105,8 @@ def book_recherche(top_k=10):
     # Embedding de la requête
     q_vec = model.encode(query, convert_to_tensor=True).float()
 
-    results = []
+    results_dict = {}  # Clé = titre du livre, valeur = score max
 
-    # Comparaison directe avec un embedding par livre
     for doc, vec_t in index_vecteurs.items():
         titre_courant = book_title(doc)
         if not titre_courant:
@@ -115,17 +114,19 @@ def book_recherche(top_k=10):
 
         score = util.cos_sim(q_vec, vec_t).item()
 
-        if score >= 0.0:
-            results.append((titre_courant, score))
+        # On garde le score maximal par livre
+        if titre_courant in results_dict:
+            if score > results_dict[titre_courant]:
+                results_dict[titre_courant] = score
+        else:
+            results_dict[titre_courant] = score
 
-    # Trier les résultats par score décroissant
-    results.sort(key=lambda x: x[1], reverse=True)
-    for doc, score in results[:top_k]:
-        print(doc, score)
+    # Trier par score décroissant
+    sorted_results = sorted(results_dict.items(), key=lambda x: x[1], reverse=True)
 
     # Charger les métadonnées
     results_search = []
-    for title, score in results:
+    for title, score in sorted_results[:top_k]:
         metadata_path = f"{dossier_livres}/MesLivresMetadata/{title}.json"
         if os.path.exists(metadata_path):
             with open(metadata_path, "r", encoding="utf-8") as f:
@@ -134,6 +135,7 @@ def book_recherche(top_k=10):
                 results_search.append(info_book)
 
     return results_search
+
 if __name__ == "__main__":
     query = input("Enter your query: ")
     results = book_recherche(query)
